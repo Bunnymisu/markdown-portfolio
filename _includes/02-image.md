@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Something about a cat and an octopus](https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjys9XhvqbdAhUBON8KHZloCo0QjRx6BAgBEAU&url=https%3A%2F%2Ftwitter.com%2Fgithubeducation%2Fstatus%2F770728022228033536&psig=AOvVaw3d86Xw6dlOuoWvkm83jU6I&ust=1536327123972832)
